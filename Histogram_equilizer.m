@@ -1,3 +1,7 @@
+%DIP HISTOGRAM EQUILIZATION
+%SUBMITTED BY MOHIT KOTHARI ON 15/08/2023.
+
+
 clc;
 clear all;
 close all;
